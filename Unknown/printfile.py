@@ -54,5 +54,5 @@ platform-specific programming.
   abstracts these operations,
   allowing code
   that works flawless 
-  across different platforms
+  across different platforms.
 """
