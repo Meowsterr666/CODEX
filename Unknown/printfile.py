@@ -43,7 +43,7 @@ platform-specific programming.
   control file permissions,
   manage processes, and more.
    
-- the module offers
+- The module offers
   straightforward functions for
   system-level tasks that otherwise
   requires complex code.
@@ -54,5 +54,5 @@ platform-specific programming.
   abstracts these operations,
   allowing code
   that works flawless 
-  across different platforms
+  across different platforms.
 """
